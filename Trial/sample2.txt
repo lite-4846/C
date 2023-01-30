@@ -1,0 +1,2 @@
+The value of num is 23
+The value of num2 is 29
